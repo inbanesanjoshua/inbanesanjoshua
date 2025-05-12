@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **inbanesanjoshua@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1FDiyukShlgtZQUxz3QAiCMQ1LdKbcJFA/view?usp=drive_link)
+<a href="https://drive.google.com/file/d/1FDiyukShlgtZQUxz3QAiCMQ1LdKbcJFA/view?usp=drive_link" target="_blank" rel="noopener noreferrer">- 📄 Know about my experiences</a>
 
 
 
