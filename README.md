@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **inbanesanjoshua@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences]([http://supun.traditionalme.life/#resume](https://flowcv.com/resume/l0g238eat4))
 
 
 
