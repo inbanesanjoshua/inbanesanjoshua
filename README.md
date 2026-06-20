@@ -31,7 +31,8 @@
     <td valign="top" width="50%">
       <b>🗄️ Databases</b>
       <br/>
-      <img src="https://skillicons.dev/icons?i=mssql,postgresql" />
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=postgresql" />
       <br/>
       SQL Server (T-SQL, CTEs, SSMS, DACPAC) • PostgreSQL (via EF Core)
     </td>
@@ -42,7 +43,7 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=react,html,css,js" />
       <br/>
-      React (incl. widget settings UIs) • HTML • CSS • JavaScript
+      React • HTML • CSS • JavaScript
     </td>
     <td valign="top" width="50%">
       <b>🚀 DevOps & DB Deployment</b>
