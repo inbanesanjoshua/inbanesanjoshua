@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Inbanesan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=.NET%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Inbanesan%20Joshua&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=.NET%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descColor=ffffff" width="100%"/>
 </div>
 <br/>
 
@@ -44,17 +44,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=inbanesanjoshua&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbanesanjoshua&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inbanesanjoshua&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inbanesanjoshua&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/inbanesanjoshua/inbanesanjoshua/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: inbanesanjoshua
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -114,4 +114,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `inbanesanjoshua` with your GitHub username.
