@@ -21,23 +21,88 @@
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <b>⚙️ Backend</b>
+    <td valign="top" width="50%">
+      <b>⚙️ Backend Development</b>
       <br/>
       <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-    </td>
-    <td valign="top" width="33%">
-      <b>🎨 Frontend</b>
       <br/>
-      <img src="https://skillicons.dev/icons?i=react,ts,js,html" />
+      C# • .NET • ASP.NET Web Forms • Entity Framework Core • ADO.NET • Stored Procedures
     </td>
-    <td valign="top" width="33%">
-      <b>🔧 Tools</b>
+    <td valign="top" width="50%">
+      <b>🗄️ Databases</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mssql,postgresql" />
+      <br/>
+      SQL Server (T-SQL, CTEs, SSMS, DACPAC) • PostgreSQL (via EF Core)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🎨 Frontend Development</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+      <br/>
+      React (incl. widget settings UIs) • HTML • CSS • JavaScript
+    </td>
+    <td valign="top" width="50%">
+      <b>🚀 DevOps & DB Deployment</b>
+      <br/>
+      SqlPackage.exe • DACPAC • Database publishing & deployment workflows
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🔧 Source Control & Tools</b>
       <br/>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+      <br/>
+      Git • GitHub (profile customization, Markdown) • VS Code • Postman
+    </td>
+    <td valign="top" width="50%">
+      <b>📦 Package Management</b>
+      <br/>
+      NuGet — authoring & publishing custom packages (incl. Excel integration tooling)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>💳 Payments & Integrations</b>
+      <br/>
+      Mandate / payment gateway URL processing • URL encoding/decoding • Mandate response handling
+    </td>
+    <td valign="top" width="50%">
+      <b>📊 Data & Reporting</b>
+      <br/>
+      Excel integration tooling • Advanced SQL reporting & analysis
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>💼 Domains I've worked in</b></summary>
+<br/>
+
+- Appointment management systems & recurring appointment logic
+- Student mark/credit calculation systems
+- Asset & document management systems
+- Healthcare software systems
+- Widget configuration & administration modules
+- Cross-database staff reference analysis
+
+</details>
+
+<details>
+<summary><b>🧠 Core strengths</b></summary>
+<br/>
+
+- Advanced SQL query writing & performance troubleshooting
+- Database schema analysis & stored procedure development
+- EF Core debugging
+- Database deployment automation
+- Package/library development
+- Full-stack .NET application development
+
+</details>
 
 ---
 
