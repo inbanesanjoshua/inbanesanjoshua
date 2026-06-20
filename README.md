@@ -61,7 +61,7 @@
     <td valign="top" width="50%">
       <b>📦 Package Management</b>
       <br/>
-      NuGet — authoring & publishing custom packages (incl. Excel integration tooling)
+      NuGet — authoring & publishing custom packages
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@
     <td valign="top" width="50%">
       <b>📊 Data & Reporting</b>
       <br/>
-      Excel integration tooling • Advanced SQL reporting & analysis
+      RDLC Reports • DevExpress • Excel integration tooling • Advanced SQL reporting & analysis
     </td>
   </tr>
 </table>
@@ -86,7 +86,6 @@
 - Student mark/credit calculation systems
 - Asset & document management systems
 - Healthcare software systems
-- Widget configuration & administration modules
 - Cross-database staff reference analysis
 
 </details>
@@ -97,7 +96,6 @@
 
 - Advanced SQL query writing & performance troubleshooting
 - Database schema analysis & stored procedure development
-- EF Core debugging
 - Database deployment automation
 - Package/library development
 - Full-stack .NET application development
